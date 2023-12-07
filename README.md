@@ -1,3 +1,6 @@
 
 # lab-agile.planning
-i writing thin commit from rhwebserver in hyperV
+i am  writing this commit from rhwebserver in hyperV
+
+
+Lets build a Website using Github & HUGO 
